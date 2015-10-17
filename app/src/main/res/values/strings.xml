@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LifeCycleActivity</string>
+
+    <string name="info">这是一个关于lifecycle_activity的demo，里面有Activity的多种方法，每个方法通过log显示出进行操作时的各种状态!</string>
+    <string name="btn_fragment">跳转至activity(有Fragment依附的)</string>
+    <string name="fragmentInfo">这是一个关于lifecycle_fragment的demo，里面有Fragment的多种方法，每个方法可以通过log显示出操作时的的各种状态</string>
+    <string name="action_settings">Settings</string>
+</resources>
